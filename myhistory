@@ -1,0 +1,26 @@
+    1  git help
+    2  git config --global user.name "mounika"
+    3  git config --global user.email nelapatlamounika@gmail.com
+    4  mkdir myFirst
+    5  vim sum.c
+    6  git init
+    7  ls
+    8  git add
+    9  git add .
+   10  git add .
+   11  git commit
+   12  git commit
+   13  git status
+   14  git clone https://github.com/nelapatlamounika/nelapatla
+   15  git remote add origin https://github.com/nelapatlamounika/nelapatla
+   16  git push origin master
+   17  history
+   18  git push origin master
+   19  vim sum.c
+   20  git add
+   21  git add .
+   22  git add .
+   23  git commit
+   24  git push origin master
+   25  history
+   26  history>myhistory

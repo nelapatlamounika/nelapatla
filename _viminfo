@@ -21,32 +21,32 @@
 # Registers:
 
 # File marks:
-'0  6  25  X:\sum.c
-'1  1  23  X:\.git\COMMIT_EDITMSG
+'0  6  27  X:\sum.c
+'1  1  26  X:\.git\COMMIT_EDITMSG
 '2  7  0  X:\sum.c
 
 # Jumplist (newest first):
--'  6  25  X:\sum.c
+-'  6  27  X:\sum.c
+-'  1  26  X:\.git\COMMIT_EDITMSG
 -'  7  0  X:\sum.c
--'  1  23  X:\.git\COMMIT_EDITMSG
 -'  1  0  X:\sum.c
--'  1  23  X:\.git\COMMIT_EDITMSG
+-'  1  26  X:\.git\COMMIT_EDITMSG
 
 # History of marks within files (newest to oldest):
 
 > X:\sum.c
-	"	6	25
-	^	6	26
-	.	6	25
+	"	6	27
+	^	6	28
+	.	6	27
 	+	5	10
 	+	6	20
 	+	5	2
 	+	6	29
 	+	7	0
-	+	6	25
+	+	6	27
 
 > X:\.git\COMMIT_EDITMSG
-	"	1	23
-	^	1	24
-	.	1	23
-	+	1	23
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
